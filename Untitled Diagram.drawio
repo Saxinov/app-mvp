@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T10:16:23.276Z" agent="5.0 (Windows)" etag="5l1bEYBeQIojlipiGq3_" version="14.2.9" type="github"><diagram id="6hPn4Aj7LjHKTzrVKzyb" name="Page-1">3Vldc5s6EP01TJ/cMRAT9zF2nLSd5La9dKbtowwyqBESV4jY7q+/u0IYME7qTNPg9iGOtPrcc86uJNvx59nmWpE8vZUx5Y43jjeOf+l4njv2p/APLdvKMjk7rwyJYrHt1BhC9oPWI621ZDEtOh21lFyzvGuMpBA00h0bUUquu91WkndXzUlCe4YwIrxv/cJinVbWqXfe2N9SlqT1ym7wpmrJSN3ZelKkJJbrlslfOP5cSamrUraZU47g1bhU464eaN1tTFGhjxkQ+F+S8lZkwTs1YuN88j2bzUa+3Zve1g7TGPy3Val0KhMpCF801pmSpYgpzjqGWtPnRsocjC4Yv1Ott5ZMUmoJplRn3LbSDdNfW+VvONXria1dbuzMprKtK0Kr7dd2pTUKq80wU6vHVf6hUw/CZk2FLFVEH8Gqlh9RCdWP9PN25EJUUJlR2A+MU5QTze67+yBWnsmuX8MgFCyJTyDUzntPeGlXmnOGru7z3GVxnTJNw5wYANYQyl3G7KRUabp5HMe+33bAmQ0DmwfOg6q6boLKrSMlbQVUMP5NQAVDKr9R+7dWy8+U34h9N+pllO8dqfwHFPAyyn/TU/4QDA+A+nRI1L0e6hd5DoaFSJigUPisSHTHRALFkCpIIYNnIs8/sVR01sPw1fXi8ysw/Uv/K2mhjd9jAjqUiOMFFLaaRQWURyPHC0iGKCW23yXRVOANxJn7zmxeFKbG8OMjUQT2TBVWAK6U8KpvQbF9jxiAWHfRL7SSd3QuuVRgEVJgzKwY53smwlkioBrBGsC4P0PCGNyqLmxDxuLYBNwhuruCeAbGXbfLuHeA8eAA497vYvy8x3hIRYx8LiFaqqgRhXXQG7sbF6/CbPUXU7R3P3CDAxy5L8mR209tf/iBMj32GB/0HJ/2YK+zIIQA1RgkkAYTwNQmtWspE45HzZzLEq030GxOnD22fnK0PLumz07toHH7J80fLmn32EeZ6w+pabf/LLsxR3nIBKb7BDDNUdnEzKUqwaMBsIOP5g5VHL5DvbS0g5OTdvDXSds/VtqTQaXtPy5tVhgSpGoSNoG/GcM+n0pqtqrJEjP4iYnacwdX9aQHrrnCI6Zy1WSK6mhEZ8siNUCbvBFJXmYCO98zBD38dOPsvo48HZz9yeA49y/k8KzieLWO2T0U7duqMi1rw0clQbfAhn9Rt8Hyy15/tW+BXgfmbZlG1TsOSbslguUlhrIUe0ya2IqZ0ltD6xWyoKR5dhv+qVJSFU9aVOC4OyHX3CQxwHopS1RWAU8DsmScmcWM+OAa9rTJq13rFOdVhlaYhIikJGapFbxPwJ/K7azttn/1C1i+Dz/8AxO2IF3LkmOQLKn50PgAAg9LCIN4t49uhgqjlGbk+F08+zuN05Ue/JXmj/cyZP1qa0WuN3meVxpUmx9HTFvrJyZ/8T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-31T10:31:32.081Z" agent="5.0 (Windows)" etag="6_GlflUcg0P4GXH-mCcA" version="14.2.9" type="github">
+  <diagram id="6hPn4Aj7LjHKTzrVKzyb" name="Page-1">
+    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="63WguMnm6Ir-i0p5jmBB-1" target="63WguMnm6Ir-i0p5jmBB-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="63WguMnm6Ir-i0p5jmBB-2" target="63WguMnm6Ir-i0p5jmBB-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="63WguMnm6Ir-i0p5jmBB-2" target="63WguMnm6Ir-i0p5jmBB-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-2" value="App Engine Tracking Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-4" value="&#39;GET&#39; Request; analog Analytics --&amp;gt; Daten müssen in Parametern enthalten sein" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="26" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-7" value="Sends back Transparent 1x1 gif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="166" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="63WguMnm6Ir-i0p5jmBB-8" target="63WguMnm6Ir-i0p5jmBB-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-8" value="Request gets logged in Google Cloud Logging" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="63WguMnm6Ir-i0p5jmBB-11" target="63WguMnm6Ir-i0p5jmBB-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-11" value="Log Sink groups all requests to tracking server" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="63WguMnm6Ir-i0p5jmBB-13" target="63WguMnm6Ir-i0p5jmBB-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-13" value="Log Sink is stored in a Big Query table" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="216" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-15" value="Params of request get pushed to columns via SQL " style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63WguMnm6Ir-i0p5jmBB-17" value="&lt;div&gt;&lt;b&gt;Problems:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Data Manipulation via SQL is dirty / prone to errors&lt;/div&gt;&lt;div&gt;- no knowledge about scalability of logs&lt;/div&gt;&lt;div&gt;- SQL the right language for data manipulation?&lt;br&gt;&lt;/div&gt;&lt;div&gt;JSON - Data would be better suited for Big Query Schema&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="240" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CatTdBDHPxQYalYGXHAe-1" value="Möglichkeit zur Optimierung: in GCS zwischenspeichern und dann mit dataflow bearbeiten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="336" width="220" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
